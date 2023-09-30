@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSQcytd5SOBNFnKA5a0IETEHwAERDTb0tW6qcqg0IKZAK4kUCEsIOoftQTsn87Q4H0TMPCpkc2py2IdjymqBfQ==",
+  "dgSpecHash": "ihYKkukWozuDGvgOhiR17qMoDLQYVq2FHptaTtS39VTy/cOHcr4SJQzzNYhXhbLQ5bJAK7f/sHF2BmE6WnrsXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luigi\\Desktop\\Luigi\\docs\\C#\\MyProject\\ApiFuncionarios\\ApiFuncionarios\\ApiFuncionarios.csproj",
+  "projectFilePath": "c:\\Users\\luigi\\Desktop\\Luigi\\docs\\C#\\MyProject\\ApiFuncionarios\\ApiFuncionarios\\ApiFuncionarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luigi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\luigi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
