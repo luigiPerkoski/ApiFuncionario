@@ -132,5 +132,6 @@ Remove um funcionário do sistema.
 
 - **C#:** Uma linguagem de programação versátil e poderosa utilizada para o desenvolvimento de aplicativos na plataforma .NET.
 
-##Swagger
-![Swagger]()
+## Swagger
+
+![Swagger](https://github.com/luigiPerkoski/ApiFuncionario/blob/master/Assets/Captura%20de%20tela%202023-09-29%20225744.png)
